@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'sragmbv*k79zh_9hn3o4($rz11ij)=m$5n&q$&5#(akk%mdlks'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['cmp-project.herokuapp.com']
 
