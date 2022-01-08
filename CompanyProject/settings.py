@@ -25,7 +25,7 @@ SECRET_KEY = 'sragmbv*k79zh_9hn3o4($rz11ij)=m$5n&q$&5#(akk%mdlks'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://cmp-project.herokuapp.com/']
 
 
 # Application definition
